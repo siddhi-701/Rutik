@@ -1,0 +1,18 @@
+*{
+	margin: 10px;
+	padding: 0;
+}
+
+.header.context-box{
+
+	width: 100px;
+	height: 100px;
+}
+
+/*-------next page-----------*/
+
+.content-box{
+	background-color: #fff;
+	width: 100%;
+	height: 100%;
+}
